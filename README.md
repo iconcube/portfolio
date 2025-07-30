@@ -20,7 +20,7 @@ AI 기술과 보안 분석의 융합에도 꾸준한 관심을 가지고 있으�
 - 역할: 보안 취약점 분석 및 PoC 실습, 대응 방안 도출
 - 요약: Log4Shell 및 관련 취약점의 작동 원리를 분석하고, 시큐어 코딩 및 패치 적용 등 실무 대응 방안을 도출하였습니다. LDAP 서버 구성 및 공격 흐름을 재현하고 보고서로 체계화하였습니다.
 
-Link : https://drive.google.com/drive/folders/17jXY9hy_GKiNHGXuYuGXKnZdhuKE8yCu?usp=sharing
+- Link : https://drive.google.com/drive/folders/17jXY9hy_GKiNHGXuYuGXKnZdhuKE8yCu?usp=sharing
 ---
 
 ## 2. ☁ OpenStack 기반 클라우드 구축 및 3-Tier 아키텍처 설계
@@ -29,7 +29,7 @@ Link : https://drive.google.com/drive/folders/17jXY9hy_GKiNHGXuYuGXKnZdhuKE8yCu?
 - 역할: 인프라 설계 및 클라우드 구축, 보안 아키텍처 구성
 - 요약: OpenStack 상에 버그바운티 환경과 관리망을 포함한 3-Tier 구조를 설계하였으며, VPC 격리, 로드밸런싱, Floating IP 및 ACL 설정을 통해 보안성을 확보했습니다.
 
-Link : https://drive.google.com/drive/folders/13heFdFj360g3YIyVrpvtxlYx7qSWfHvW?usp=sharing
+- Link : https://drive.google.com/drive/folders/13heFdFj360g3YIyVrpvtxlYx7qSWfHvW?usp=sharing
 ---
 
 ## 3. 🔐 하이브리드 클라우드 환경 보안 설계 및 탐지 시스템 구축
@@ -38,7 +38,7 @@ Link : https://drive.google.com/drive/folders/13heFdFj360g3YIyVrpvtxlYx7qSWfHvW?
 - 역할: 클라우드 인프라 보안 설계 및 탐지 시스템 구축
 - 요약: KISA 보안 가이드를 기반으로 ELK + Filebeat 기반 로그 분석 환경과 Snort IDS, ModSecurity WAF, Prometheus + Grafana 모니터링 환경을 통합 구축하였습니다.
 
-Link : https://drive.google.com/drive/folders/1HICEjJ2ZYCikCMn7fZXJfx73ffaD6dp7?usp=sharing
+- Link : https://drive.google.com/drive/folders/1HICEjJ2ZYCikCMn7fZXJfx73ffaD6dp7?usp=sharing
 ---
 
 ## 4. 🤖 LLM Jailbreaking 탐지 AI 모델 및 API 백엔드 개발
@@ -47,7 +47,7 @@ Link : https://drive.google.com/drive/folders/1HICEjJ2ZYCikCMn7fZXJfx73ffaD6dp7?
 - 역할: AI 모델 학습 및 백엔드 API 서버 개발
 - 요약: ELECTRA, BART, DeBERTa 등 다양한 모델로 학습된 LLM jailbreak 탐지 분류기를 구현하고, FastAPI 기반 REST API로 웹 탐지 시스템을 개발했습니다. F1-score 96.3% 달성.
 
-Link : https://drive.google.com/drive/folders/1hy5RsFQSwZzfJEA5LN5Bf_9G-mMShyxf?usp=sharing
+- Link : https://drive.google.com/drive/folders/1hy5RsFQSwZzfJEA5LN5Bf_9G-mMShyxf?usp=sharing
 ---
 
 ## 5. 🧠 Guess Phishing? Link & QR 기반 피싱 탐지 시스템
@@ -56,7 +56,7 @@ Link : https://drive.google.com/drive/folders/1hy5RsFQSwZzfJEA5LN5Bf_9G-mMShyxf?
 - 역할: 전체 시스템 설계, 모델 개발, 웹 서비스 구현
 - 요약: URL/QR 피싱 탐지 모델(CNN + Self-Attention, MLP)을 설계하고, FastAPI + React 기반 웹 인터페이스를 통해 PhishIntention 분석까지 통합한 탐지 시스템을 구현했습니다. 평균 정확도 97.8%, F1-score 96.4% 기록.
 
-Link : https://drive.google.com/drive/folders/18Dncxh5sfMNwriEUtuWvKR0xwj4XPcYS?usp=sharing
+- Link : https://drive.google.com/drive/folders/18Dncxh5sfMNwriEUtuWvKR0xwj4XPcYS?usp=sharing
 ---
 
 - 이메일 : wooky1188@gmail.com
